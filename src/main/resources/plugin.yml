@@ -1,0 +1,11 @@
+name: NooniesHypixelPit
+version: '${project.version}'
+main: me.skinnynoonie.hypixelpit.Main
+api-version: 1.8
+commands:
+  spawn:
+  giveprot:
+  givefresh:
+  pitenchant:
+  giveallfresh:
+  pitenchants:
